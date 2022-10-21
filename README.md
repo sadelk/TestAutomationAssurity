@@ -33,6 +33,7 @@ Run the project using maven and notice that the three acceptance criteria are ch
 The result report will be generated in the test-output package under the main project with several formats to display the results.
 
 ![img_1.png](images/TestOutputFolder.png)
+
 emailable-report.html and index.html has a summary of the tests run and displayed in a readable manner.
 
 
